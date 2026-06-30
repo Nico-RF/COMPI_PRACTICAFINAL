@@ -27,10 +27,10 @@ El resto de las indicaciones técnicas se encontraban en el PDF subido a Studium
     COMPI_PRACTICAFINAL/              # Root del proyecto
     │
     ├─ circuito.png                   # Cableado de los contadores 
-    ├─ Codigo_Practica_entregable.v   # Archivo MAIN: menú principal y parrilleo de subrutinas
+    ├─ codigo_Practica_entregable.v   # Archivo MAIN: menú principal y parrilleo de subrutinas
     ├─ contador_arbitrario.dmp        # Resultado del contador
     ├─ informe.pdf                    # Informe final como documentación del proyecto
-    ├─ LICENSE                        # Licencia del copyright (C) 
+    ├─ license                        # Licencia del copyright (C) 
     └─ readme.md                      # Guía de lectura del proyecto
 
 ## Instalación del entorno de Verilog:
