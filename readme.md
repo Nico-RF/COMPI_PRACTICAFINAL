@@ -35,8 +35,8 @@ El resto de las indicaciones técnicas se encontraban en el PDF subido a Studium
 
 ## Instalación del entorno de Verilog:
 Como la manera de instalación del entorno ya está explicada de forma magnífica en otra web, os dejamos el maravilloso sitio web de AVELLANO FIS USAL, donde se encuentran explicadas todas las prácticas de Computadores I/II y de Sistemas Operativos I/II: <br /><br />
-avellano.usal.es/~compi/sesion1.htm &emsp;&emsp;# Explicación instalación <br />
-avellano.usal.es/~compi/ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;# gral: Computadores I<br />
+avellano.usal.es/~compi/sesion1.htm &emsp;&emsp;&emsp;&nbsp;# Explicación instalación <br />
+avellano.usal.es/~compi/ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&nbsp;# gral: Computadores I<br />
 <br />
 De todas maneras, os dejamos resumido lo que hay que hacer:<br />
 - Tener una distribución de Linux (Debian, Kubuntu). O una máquina virtual, en su defecto.
