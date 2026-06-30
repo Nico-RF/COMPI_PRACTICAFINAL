@@ -1,6 +1,8 @@
 # Practica Final Computadores I
 1er curso, 1er cuatrimestre. Grado en Ingeniería Informática. Facultad de Ciencias de la Universidad de Salamanca.
 
+<br />
+
 *BLANCO DE LA IGLESIA, DAVID*.
 
 *RODRÍGUEZ FERNÁNDEZ, NICOLÁS*.
