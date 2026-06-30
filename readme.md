@@ -33,7 +33,20 @@ El resto de las indicaciones técnicas se encontraban en el PDF subido a Studium
     ├─ LICENSE                        # Licencia del copyright (C) 
     └─ readme.md                      # Guía de lectura del proyecto
 
-## Instalación entorno verilog:
+## Instalación del entorno de Verilog:
+Como la manera de instalación del entorno ya está explicada de forma magnífica en otra web, os dejamos el maravilloso sitio web de AVELLANO FIS USAL, donde se encuentran explicadas todas las prácticas de Computadores I/II y de Sistemas Operativos I/II: <br /><br />
+http://avellano.usal.es/~compi/sesion1.htm &emsp;&emsp;# página donde se explica la instalación <br />
+http://avellano.usal.es/~compi/ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;# página general de Computadores I<br />
+<br />
+De todas maneras, os dejamos resumido lo que hay que hacer:<br />
+- Tener una distribución de Linux (Debian, Kubuntu). O una máquina virtual, en su defecto.
+- Las implementaciones de Icarus Verilog y de GPL Cver, que se instalan ejecutando en terminal:
+
+> &emsp;&emsp;&emsp;&emsp; sudo apt-get install iverilog <br />
+> &emsp;&emsp;&emsp;&emsp; sudo apt-get install gplcver
+
+- Un editor de texto.
+
 
 ## Ejecución:
 Para que funcione el proyecto, en terminal (por ejemplo, de un entorno WSL) deberemos poner:
