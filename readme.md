@@ -50,11 +50,12 @@ De todas maneras, os dejamos resumido lo que hay que hacer:<br />
 
 ## Ejecución:
 Para que funcione el proyecto, en terminal (por ejemplo, de un entorno WSL) deberemos poner:
-> iverilog Codigo_Practica_entregable.v -o contador
+> iverilog codigo_Practica_entregable.v -o contador
 
 y posteriormente ejecutar
 > ./contador
-
 <br />
 
-
+## Disclaimers:
+1.° LA DETECCIÓN DE COPIA, TOTAL O PARCIAL IMPLICA UN CERO AUTOMÁTICO EN LA PARTE PRÁCTICA DE LA ASIGNATURA. <br /><br />
+2.° Se reservan todos los derechos de autoría de este proyecto bajo amparo del *Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la **Ley de Propiedad Intelectual**, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia.*
