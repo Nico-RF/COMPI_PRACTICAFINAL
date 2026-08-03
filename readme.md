@@ -3,9 +3,9 @@
 
 <br />
 
-*BLANCO DE LA IGLESIA, DAVID*. (u/Ugulberto)
+*BLANCO DE LA IGLESIA, DAVID*. [@Ugulberto](https://github.com/Ugulberto)
 
-*RODRÍGUEZ FERNÁNDEZ, NICOLÁS*. (u/Nico-RF)
+*RODRÍGUEZ FERNÁNDEZ, NICOLÁS*. [@Nico-RF](https://github.com/Nico-RF/)
 <br />
 <br />
 
