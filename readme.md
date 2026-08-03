@@ -24,18 +24,23 @@ El resto de las indicaciones técnicas se encontraban en el PDF subido a Studium
 <br />
 
 ## Arquitectura del proyecto:
-    COMPI_PRACTICAFINAL/               # Root del proyecto
+    COMPI_PRACTICAFINAL/                # Root del proyecto
+    │
     ├── files                               # Archivos de código y derivados
     │     ├── codigo_Practica_entregable.v      # Archivo MAIN: menú principal y parrilleo de subrutinas
     │     └── contador_arbitrario.dmp           # Resultado ondulatorio del contador
+    │
     ├── gitDocs                             # Documentación explícita para el repositorio
-    │     ├── license                           # Licencia del copyright (C) 
-    │     └── readme.md                         # Guía de lectura del proyecto
+    │     └── license                           # Licencia del copyright (C) 
+    │
     ├── images                              # Imágenes construidas
     │     ├── circuito.png                      # Cableado de los contadores 
     │     └── circuito.svg                      # Cableado de los contadores (mayor detalle y resolución)
-    └── report                              # Informe redactado
-          └── informe.pdf                       # Informe final como documentación del proyecto
+    │
+    ├── report                              # Informe redactado
+    │     └── informe.pdf                       # Informe final como documentación del proyecto
+    │
+    └── readme.md                         # Guía de lectura del proyecto
 
 ## Imagen del cableado del circuito
 <img width="1146" height="849" alt="circuito" src="https://github.com/user-attachments/assets/f1294ea2-1dff-4c0c-b950-3d420f49a24d" />
