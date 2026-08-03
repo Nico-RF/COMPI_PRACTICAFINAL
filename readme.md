@@ -24,14 +24,21 @@ El resto de las indicaciones técnicas se encontraban en el PDF subido a Studium
 <br />
 
 ## Arquitectura del proyecto:
-    COMPI_PRACTICAFINAL/              # Root del proyecto
-    │
-    ├─ circuito.png                   # Cableado de los contadores 
-    ├─ codigo_Practica_entregable.v   # Archivo MAIN: menú principal y parrilleo de subrutinas
-    ├─ contador_arbitrario.dmp        # Resultado del contador
-    ├─ informe.pdf                    # Informe final como documentación del proyecto
-    ├─ license                        # Licencia del copyright (C) 
-    └─ readme.md                      # Guía de lectura del proyecto
+    COMPI_PRACTICAFINAL/               # Root del proyecto
+    ├── files                               # Archivos de código y derivados
+    │     ├── codigo_Practica_entregable.v      # Archivo MAIN: menú principal y parrilleo de subrutinas
+    │     └── contador_arbitrario.dmp           # Resultado ondulatorio del contador
+    ├── gitDocs                             # Documentación explícita para el repositorio
+    │     ├── license                           # Licencia del copyright (C) 
+    │     └── readme.md                         # Guía de lectura del proyecto
+    ├── images                              # Imágenes construidas
+    │     ├── circuito.png                      # Cableado de los contadores 
+    │     └── circuito.svg                      # Cableado de los contadores (mayor detalle y resolución)
+    └── report                              # Informe redactado
+          └── informe.pdf                       # Informe final como documentación del proyecto
+
+## Imagen del cableado del circuito
+<img width="1146" height="849" alt="circuito" src="https://github.com/user-attachments/assets/f1294ea2-1dff-4c0c-b950-3d420f49a24d" />
 
 ## Instalación del entorno de Verilog:
 Como la manera de instalación del entorno ya está explicada de forma magnífica en otra web, os dejamos el maravilloso sitio web de AVELLANO FIS USAL, donde se encuentran explicadas todas las prácticas de Computadores I/II y de Sistemas Operativos I/II: <br /><br />
